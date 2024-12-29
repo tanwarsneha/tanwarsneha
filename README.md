@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a B.Tech CSE student currently in my 2nd year, 4th semester with a passion for coding, problem-solving, and building projects.
+
+### 🔧 Technologies & Tools
+
+- **Programming Languages:** C, C++, JavaScript,Java <br>
+- **Interests:** Data Structures & Algorithms, Web Development<br>
+- **Currently Learning:** Advanced programming concepts and real-world application development
+
+### 🚀 What I'm working on:
+
+- Enhancing my skills in competitive programming<br>
+- Building projects that solve real-world problems
+
+### 💡 Goals:
+
+- Master Data Structures and Algorithms<br>
+- Contribute to meaningful open-source projects<br>
+- Excel in my academic journey and grow as a software developer
